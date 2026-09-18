@@ -1,0 +1,9 @@
+Package: com.local.ytliteplusrenewed
+Name: YTLitePlusRenewed
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: YTLitePlusRenewed tweak
+Maintainer: local
+Author: local
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
