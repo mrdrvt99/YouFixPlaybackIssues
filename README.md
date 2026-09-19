@@ -48,6 +48,32 @@ This tweak is developed by PoomSmart. This tweak enables native PiP to the Youtu
   The YTLite 5.2.2 crack is cracked by Zarzel (shinewake).YTLite is made by dayanch96, eaturing over 100+ customization options.
 </details>
 
+
+<details>
+  <summary>YTKACE v0.9.3</summary>
+  YTKACE v0.9.3 is developed by @itzzace and it is a very popular tweak meant to be, in fact, a curated FREE replica of YTKillerPlus. This tweak is not affiliated in any way with YTKillerPlus. Moreover, it has a rich amount of features and whatnot! Please fork & star his repo, he deserves it: https://github.com/itzzace/ytkace.
+
+>
+> **IMPORTANT**:
+> This tweak has **two** sections in Youtube Settings that both open the same tweak: Youtube Plus. Please open YTKACE settings by tapping the YTKACE downloads library and then the gear in the immediate upper right corner.
+>
+</details>
+
+<details>
+  <summary>YouMod v2.0.0</summary>
+  YouMod v2.0.0 is a tweak developed & maintained by @TonWalter888. This is also a mod that has similar features to Youtube Plus (cracked v5.2.2) **and** ytkace. This is also very popular among the community. It has lots of features, a download manager, Sponsorblock and still counting! Please give him a star and fork his repo to support this wonderful dev! He deserves every star, fork and praise (my opinion): https://github.com/Tonwalter888/YouMod
+</details>
+
+<details>
+  <summary>VolumeBoostYT</summary>
+  VolumeBoostYT was originally made by @irum0320, but in this mod there is the updated, advanced and fixed fork by @candyzp. This tweak does the same thing that the og one does: Making the volume go high, high and high than the native iIOS could give. This repo is new and some stars and forks would rally make the dev happy, plus, he deserves them: https://github.com/candyzp/VolumeBoostYT
+</details>
+
+<details>
+  <summary>YTLitePlusRenewed</summary>
+  Yes, this tweak is intentionally named after this whole mod because it is meant to give features that boost your Youtube experience! It brings just YTLocalQueueReborn, an updated and simplified features of what used to be YTLocalQueue and Flappy Bird: a feature that is meant to.....use it as an entertainment reason, meaning that u can just play this for as long as u want. Plus it has 5 custom themes. More features coming soon....
+</details>
+
 <details>
   <summary>YouChooseQuality</summary>
   This tweak is made by PomSmart. This tweak is for auto-selecting the video quality of your choice in the iOS Youtube app.
@@ -115,7 +141,7 @@ This tweak is developed by PoomSmart. This tweak is for viewing, changing and ad
 
 <details>
   <summary>AutoFLEX</summary>
-  AutoFLEX is a tweak meant for developers to research YT classes and more about YT! This is for research purposes only and only use this if u know what u doing (it's not dangerous to use but stil..)
+  AutoFLEX is a tweak meant for developers to research YT classes and more about YT! This is for research purposes only and only use this if u know what u doing (it's not dangerous to use but stil..). Now with settings included.
 </details>
 
 <details>
@@ -130,7 +156,11 @@ This tweak is developed by PoomSmart. This tweak is for viewing, changing and ad
 
 <details>
   <summary>YTDownloadManager</summary>
-  YTDownloadManageer is a tweak made by me that has the role to temporarily replace the YTPlus download manager that is patched in the latest versions of Youtube. This tweak is enabled by default and has no settings at all. An independent repo link for it will follow...
+  YTDownloadManageer is a tweak made by me that has the role to temporarily replace the YTPlus download manager that is patched in the latest versions of Youtube. This tweak is enabled by default and has no settings at all. Now with 2k/4k/8k download capability. An independent repo link for it will follow...
+
+>
+> The server link is **UPDATED**. The old GoPort link doesn't work due go the GoPort devs making custom subdomains a paid thing now. Please use the following updated link: https://5volue.goport.uz. Sorry!!!
+>
 </details>
 
 <details>
@@ -173,7 +203,11 @@ Special thanks to daisuke1227 for the download manager!
 
 Special thanks to Mark02-2012 for LowContrastMode!
 
-Special thanks to @Tonwalter888 for helping me with YouFixPlaybackIssues and YTFlags!
+Special thanks to @Tonwalter888 for helping me with YouFixPlaybackIssues and YTFlags, and YouMod!
+
+Special thanks to @itzzace for YTKACE v0.9.3!
+
+Special thanks to @candyzp for VolumeVoostYT
 
 Special thanks to @tywtyw2002 for the experimental PoToken fix idea and logic!
 
